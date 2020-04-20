@@ -17,7 +17,8 @@ use:
       to test this code on your own image.
 
 fuctions:
-      #1.SRE
+
+    #1.SRE
     def getShortRunEmphasis(self,rlmatrix):
             I, J = self.calcuteIJ(rlmatrix)
             numerator = np.apply_over_axes(np.sum, self.apply_over_degree(np.divide, rlmatrix, (J*J)), axes=(0, 1))[0, 0]
