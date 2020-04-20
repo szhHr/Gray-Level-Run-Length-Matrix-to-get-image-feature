@@ -9,12 +9,15 @@ environments: python3
               itertools
               matplotlib
               csv
+      
+      
 use:
       there are 11 kinds of functions in the file GrayRumatrix.py,
       " python3 main.py " to test code in the image "test.gif",
       the result will be stored in the data.csv.
       You can change the gif and rewrite the image path in the file"main.py"
       to test this code on your own image.
+
 
 fuctions:
 
