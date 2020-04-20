@@ -1,6 +1,6 @@
 # Image-segmentation-Gray-Level-Run-Length-Matrix
-use GLRLM to get image segmentation and feature
-
+GLRLM to get image segmentation and feature
+Here ara 11 features to get by 11 fuctions
 idea from https://blog.csdn.net/Beans___Lee/article/details/86579227
 
 environments: python3
